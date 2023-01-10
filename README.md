@@ -1,2 +1,2 @@
-# MeeFirst
-Documentation and guide for my (upcoming) discord bot.
+# 🥇 MeeFirst
+Documentation and guide for my (upcoming) discord bot. (unfinished)
