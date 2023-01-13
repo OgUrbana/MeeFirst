@@ -10,7 +10,7 @@ Here is an example of one:
 
 Using these polls are simple, just run the command
 
-**/poll** Title description option1 option2
+`/poll Title description option1 option2`
 
 these are the only required fields, however it gets more complicated, the more fields you decide to use!
 
